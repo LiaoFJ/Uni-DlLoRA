@@ -1,7 +1,7 @@
 # Official Implementation of Uni-DlLoRA (ACM MM '24)
 The official implementation of Uni-DlLoRA: Style Fine-Tuning for Fashion Image Translation (ACM MM '24)
 
-<img alt="teaser" height="100" src="./teaser/teaser.png?raw=true" width="300"/>
+![teaser](./teaser/teaser.png?raw=true)
 
 ## Installation Guide
 
